@@ -20,17 +20,14 @@ Repositorio oficial de documentación técnica, errores y configuraciones del pr
   Archivos de configuración de referencia, como `ejemplo_odoo.conf` y notas de conexión a Cloud SQL.
 
 ## 🎯 Objetivo del proyecto
-
 - Servir como **base documental** del despliegue de Odoo para Tiendas Paco.
 - Recoger **todos los errores** que se encontraron, junto con su análisis y solución paso a paso.
 - Proporcionar un recurso docente para entender una implantación real de Odoo sobre Google Cloud.
 
 ## 👥 Autores
-
-- Equipo Tiendas Paco  
-- Coordinación técnica: Julian  
-- Asistencia de depuración y documentación: ChatGPT
+- Coordinación técnica: Julian Blanco Elvira
+- Coordinación Del proyecto: Juan Piorno Campo 
+- Asistencia de depuración y documentación: Equipo de 2ºDAM Del IES Fray Diego Tadeo de Ciudad Rodrigo
 
 ## ✅ Estado
-
 La documentación está pensada para ser utilizada como material de apoyo en clase y como referencia para futuros proyectos similares (ERP + Cloud).
