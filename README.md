@@ -27,7 +27,8 @@ Repositorio oficial de documentación técnica, errores y configuraciones del pr
 ## 👥 Autores
 - Coordinación técnica: Julian Blanco Elvira
 - Coordinación Del proyecto: Juan Piorno Campo 
-- Asistencia de depuración y documentación: Equipo de 2ºDAM Del IES Fray Diego Tadeo de Ciudad Rodrigo
+- Asistencia de depuración y documentación: Equipo de 2ºDAM Del IES Fray Diego Tadeo Gonzalez de Ciudad Rodrigo
+- Curso 2025/2026
 
 ## ✅ Estado
 La documentación está pensada para ser utilizada como material de apoyo en clase y como referencia para futuros proyectos similares (ERP + Cloud).
